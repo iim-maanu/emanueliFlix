@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+
+
+body {
+color: #800000 ;
+background-color: darkred ;
+margin: 0px;
+margin-bottom: 100px;
+font-family: "Roboto Mono";, monospace
+}
+
+
+h1{
+    color: #f60a0a;
+    font-size: 40px;
+    
+}
+
+p{
+
+}
