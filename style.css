@@ -10,7 +10,21 @@ margin: 0px;
 margin-bottom: 100px;
 font-family: "Roboto Mono";, monospace
 }
+header{
+   border-bottom: solid 2px rgb(255, 166, 0);
+   margin: 20px;
+   font-size: 30px;
+   color: #f60a0a;
 
+
+}
+section{
+   padding-bottom: 80px;
+   padding-top: 80px;
+   background: #f60a0a;
+   display: flex;
+   justify-content: center;
+}
 
 h1{
     color: #f60a0a;
@@ -19,5 +33,5 @@ h1{
 }
 
 p{
-
+   font: size 40px; ;
 }
